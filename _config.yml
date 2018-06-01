@@ -1,13 +1,13 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
+baseurl:        
 url:            "https://lzzhanglin.github.io"
 
 # Author
 author:
   name:         Chester How
-  url:          http://lastisee.com
+  url:          
   email:        chesterhow@gmail.com
 
 # Build settings
