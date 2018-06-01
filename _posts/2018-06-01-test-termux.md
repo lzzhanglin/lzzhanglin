@@ -22,7 +22,7 @@ author: "lastisee"
 - <sub>Subscript</sub>
 - Citation <cite>&mdash; lastisee </cite>
 - Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr>
-I am a [link](https://github.com/lzzhanglin)
+- I am a [link](https://github.com/lzzhanglin)
 
 
 
