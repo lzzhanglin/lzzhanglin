@@ -12,4 +12,18 @@ author: "lastisee"
 ### list
 * item1
 * item2
-* item3 
+* item3
+
+- **Blod**
+- _Italics_
+- ~~Strikethrough~~
+- <ins>Underline</ins>
+- <sup>Supersceipt</sup>
+- <sub>Subscript</sub>
+- Citation <cite>&mdash; lastisee </cite>
+- Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr>
+I am a [link](https://github.com/lzzhanglin)
+
+
+
+
