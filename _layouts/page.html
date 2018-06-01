@@ -1,6 +1,18 @@
 ---
-layout: layout
+layout: default
 ---
+{%- include header.html -%}
 
-{% assign __ = site.data.languages[site.language] %}
-{% include page.html %}
+<!-- Main -->
+<div id="main">
+	<!-- Page -->
+	<article class="shade-two">
+	  <div class="container">
+			<header>
+				<h2>{{- page.title -}}</h2>
+				{%- if page.subtitle -%}<p>{{- page.subtitle -}}</p>{%- endif -%}
+			</header>
+	    {{- content -}}
+	  </div>
+	</article>
+</div>
